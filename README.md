@@ -1,13 +1,13 @@
 **Reference**
 
-Hugo Morão,
-The economic effects of tensions in energy transportation,
-Research in Transportation Economics,
-Volume 112,
-2025,
-101598,
-ISSN 0739-8859,
-https://doi.org/10.1016/j.retrec.2025.101598.
+Hugo Morão,  
+The economic effects of tensions in energy transportation,  
+Research in Transportation Economics,  
+Volume 112,  
+2025,  
+101598,  
+ISSN 0739-8859,  
+https://doi.org/10.1016/j.retrec.2025.101598.  
 (https://www.sciencedirect.com/science/article/pii/S0739885925000812)
 
 # The Energy Transportation Uncertainty (ETU) Index
