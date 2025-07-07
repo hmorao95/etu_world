@@ -12,7 +12,7 @@ Spanning from January 1969 to December 2024, the index draws from an extensive n
 
 The index thus serves as a valuable tool for understanding how transportation infrastructure risks translate into broader economic uncertainty, providing researchers and policymakers with quantitative insights into a previously difficult-to-measure aspect of energy market dynamics.
 
-**Reference**  
+## Reference
 Hugo Morão,   
 The economic effects of tensions in energy transportation,  
 Research in Transportation Economics,  
