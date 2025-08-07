@@ -1,5 +1,5 @@
 # The Energy Transportation Uncertainty (ETU) Index
-The Energy Transportation Uncertainty (ETU) index represents a novel approach to measuring disruptions in the critical midstream segment of global energy supply chains. Building on the established methodology of Baker, Bloom, and Davis (2016) for constructing economic policy uncertainty indices, this index systematically tracks threats and disruptions to energy transportation infrastructure through comprehensive media analysis.
+The Energy Transportation Uncertainty (ETU) index represents a novel approach to measuring disruptions in the critical midstream segment of *global* energy supply chains. Building on the established methodology of Baker, Bloom, and Davis (2016) for constructing economic policy uncertainty indices, this index systematically tracks threats and disruptions to energy transportation infrastructure through comprehensive media analysis.
 
 **Reference**: Morão (2025)  
 Hugo Morão,   
