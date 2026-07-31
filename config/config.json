@@ -1,0 +1,8 @@
+{
+"type": "index",
+"languages": ["English"],
+"interval": "Monthly",
+"search_text": "(wc>150 AND (threat* OR warn* OR fear* OR risk* OR concern*) AND (in=I1300006 OR hlp=(oil or gas or petroleum or energy) NEAR5 (midstream or pipeline$1 or transport* or rail* or barge$1 or tanker$1 or truck* or shipping or storage or terminal$1 or infrastructure)) NOT ns=(nsum OR ncdig OR ncal OR nran OR nrgn OR nrmf OR nnam OR nlet OR nhoc))"
+}
+
+
