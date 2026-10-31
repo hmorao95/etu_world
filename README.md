@@ -29,7 +29,7 @@ etu_world/
 │   ├── raw/
 │   │   └── num_hits.csv # raw monthly article counts per source (index numerator and denominator)
 │   └── processed/
-│       ├── index.csv    # computed ETU index (long form, four series)
+│       ├── index.csv    # computed ETU index (two series)
 │       ├── index.xlsx   # computed ETU index (spreadsheet)
 │       └── etuindex_data.xlsx  # frozen dataset published with Morão (2025)
 ├── docs/
@@ -79,8 +79,6 @@ The index is built in three stages, moving left to right through the folders abo
 | Column | Description |
 | --- | --- |
 | `year`, `month` | Period of the observation. |
-| `unstandardized` | Aggregate scaled article frequency, equal source weighting. |
-| `unstandardized weighted` | Aggregate scaled article frequency, weighted by source `importance`. |
 | `standardized` | Standardized (mean/standard-deviation normalized) ETU index, equal weighting. |
 | `standardized weighted` | Standardized ETU index, weighted by source `importance`. |
 

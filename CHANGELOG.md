@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2026-10-31
+
+### Changed
+- Extended the index from 2026-06 to 2026-09: updated `data/raw/num_hits.csv`,
+  `data/processed/index.csv`, `data/processed/index.xlsx`, and the coverage end
+  dates in `config/sources.csv`. The search query and sources are unchanged.
+- `data/processed/index.csv` and `index.xlsx` hold the two standardized series
+  only; the unstandardized series are no longer published.
+
 ## [1.1.0] - 2026-07-31
 
 ### Added
